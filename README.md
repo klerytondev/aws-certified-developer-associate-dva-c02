@@ -6,6 +6,10 @@
 </h1>
 
 <div align="center">
+<img src="image.png" alt="AWS Certified Developer Associate DVA-C02" width="20%" />
+</div>
+
+<div align="center">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/klerytondev/aws-certified-AI-practitioner-roadmap.svg">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/klerytondev/aws-certified-AI-practitioner-roadmap.svg">
@@ -16,10 +20,6 @@
 </div>
 
 <br />
-
-<div align="center">
-<img src="image.png" alt="AWS Certified Developer Associate DVA-C02" width="20%" />
-</div>
 
 © 2025 · Curado por **Kleryton de Souza** · Siga no [LinkedIn](https://www.linkedin.com/in/kleryton-souza/)  
 Baseado em revisão pessoal e práticas recomendadas · Compartilhe com colegas · Não comercialize  
