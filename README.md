@@ -18,7 +18,7 @@
 <br />
 
 <div align="center">
-<img src="image.png" alt="AWS Certified Developer Associate DVA-C02" width="40%" />
+<img src="image.png" alt="AWS Certified Developer Associate DVA-C02" width="20%" />
 </div>
 
 © 2025 · Curado por **Kleryton de Souza** · Siga no [LinkedIn](https://www.linkedin.com/in/kleryton-souza/)  

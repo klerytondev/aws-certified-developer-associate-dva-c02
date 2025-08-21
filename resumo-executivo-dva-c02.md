@@ -2,7 +2,7 @@
 ## Resumo Executivo do Material de Estudos
 
 <div align="center">
-<img src="image.png" alt="AWS Certified Developer Associate DVA-C02" width="40%" />
+<img src="image.png" alt="AWS Certified Developer Associate DVA-C02" width="20%" />
 </div>
 
 **Sobre o Material**
