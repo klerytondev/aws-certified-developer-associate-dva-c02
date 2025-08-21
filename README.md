@@ -23,7 +23,7 @@ Baseado em revisão pessoal e práticas recomendadas · Compartilhe com colegas 
 
 Este guia estratégico foi desenvolvido para auxiliar desenvolvedores na preparação para o exame AWS Certified Developer Associate (DVA-C02). Contém informações essenciais sobre os domínios do exame, melhores práticas e um [simulado prático](#simulado-do-exame) com 65 questões.
 
-## 📌 Índice
+##  Índice
 
 - [Estrutura do Exame](#estrutura-do-exame)
 - [Domínio 1: Desenvolvimento com Serviços AWS (32%)](#domínio-1-desenvolvimento-com-serviços-aws-32)
@@ -197,7 +197,7 @@ A certificação AWS Certified Developer Associate valida conhecimentos técnico
 | **KMS/SecretsMgr/ParamStore** | Gestão de chaves, segredos, criptografia dos dados |
 | **CloudFront** | Cache de conteúdo, baixa latência, CDN para APIs/S3 |
 
-## ❓ Simulado do Exame
+##  Simulado do Exame
 
 Pratique com questões específicas para a certificação AWS Certified Developer Associate na página [Simulado DVA-C02](contents/dva_perguntas.md).
 
@@ -216,7 +216,7 @@ Este projeto está licenciado sob a [MIT License](license.txt). Sinta-se à vont
 
 ---
 
-### 👨‍💻 Autor
+###  Autor
 
 <a href="https://github.com/klerytondev/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/klerytondev" width="100px;" alt=""/>
