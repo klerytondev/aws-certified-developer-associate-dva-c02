@@ -212,7 +212,7 @@ Pratique com questões específicas para a certificação AWS Certified Develope
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](license.txt). Sinta-se à vontade para usar e distribuir este guia, desde que mantenha os créditos apropriados.
+Este projeto está licenciado sob a [MIT License](LICENSE.txt). Sinta-se à vontade para usar e distribuir este guia, desde que mantenha os créditos apropriados.
 
 ---
 
