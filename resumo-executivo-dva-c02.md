@@ -1,6 +1,9 @@
 # AWS Certified Developer Associate (DVA-C02)
 ## Resumo Executivo do Material de Estudos
 
+<div align="center">
+<img src="image.png" alt="AWS Certified Developer Associate DVA-C02" />
+</div>
 
 **Sobre o Material**
 
