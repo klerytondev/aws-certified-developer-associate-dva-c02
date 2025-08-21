@@ -35,10 +35,10 @@ Este guia estratégico foi desenvolvido para auxiliar desenvolvedores na prepara
 - [Domínio 3: Implantação (24%)](#domínio-3-implantação-24)
 - [Domínio 4: Solução de Problemas e Otimização (18%)](#domínio-4-solução-de-problemas-e-otimização-18)
 - [Principais Serviços AWS - Resumo](#principais-serviços-aws---resumo)
-- [Simulado do Exame](#simulado-do-exame)
-- [Links Úteis](#links-úteis)
-- [Licença](#licença)
-- [Autor](#autor)
+- [Simulado do Exame](#-simulado-do-exame)
+- [Links Úteis](#-links-úteis)
+- [Licença](#-licença)
+- [Autor](#-autor)
 
 ## Estrutura do Exame
 
@@ -216,7 +216,7 @@ Pratique com questões específicas para a certificação AWS Certified Develope
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [LICENSE](LICENSE.txt). Sinta-se à vontade para usar e distribuir este guia, desde que mantenha os créditos apropriados.
+Este projeto está licenciado sob a [LICENSE](LICENSE). Sinta-se à vontade para usar e distribuir este guia, desde que mantenha os créditos apropriados.
 
 ---
 
